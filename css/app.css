@@ -1,0 +1,25 @@
+/* File imports */
+
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Nunito Sans';
+    font-weight: 300;
+    text-align: justify;
+    /* font-size: 0.9em; */
+}
+
+.jumbotron {
+    background-color: #b7e1cd;
+}
+.btn-primary {
+    background-color: #b7e1cd;
+    color: black;
+    border-color: #b7e1cd;
+}
+
+
+@media screen and (max-width: 480px) {}
